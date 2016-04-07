@@ -2,7 +2,7 @@
 return array(
 	'author'      => 'Ingo Wedler',
 	'author_url'  => 'http://ingowedler.com/',
-	'name'        => 'get_post_var',
+	'name'        => 'GET_POST_Var',
 	'description' => 'GET_POST_Var provides some helper functions for fetching data like GET, POST, User IP, User Agent, Cookies, Server Variables (see PHP_Info).',
 	'version'     => '2.0',
 	'namespace'   => 'ingowedler\get_post_var',
