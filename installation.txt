@@ -1,1 +1,4 @@
 
+1. Drop the unzipped folder "GET_POST_Var" in "./system/user/addons/"
+2. Go to your Admin page -> Addon-Manager and install the plugin
+3. Read the manual!
