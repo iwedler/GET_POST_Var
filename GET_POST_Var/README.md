@@ -2,6 +2,8 @@
 
 GET_POST_Var provides some helper functions for fetching data like GET, POST, User IP, User Agent, Cookies, Server Variables (see PHP_Info).
 
+GET_POST_Var 1.1 is compatible with NSM Addon Updater.
+
 ## Usage
 
 ### {exp:get_post_var type='get' var='variable_name'}
@@ -73,10 +75,9 @@ results in: `50.116.60.37`
 
 ## Change Log
 
-### 2.0
+### 1.1
 
-- Updated plugin to be EE 3.x compatible
-- Removed NSM Addon Updater compatibility
+- Made compatible with NSM Addon Updater
 
 ### 1.0
 
