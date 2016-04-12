@@ -37,7 +37,7 @@ OR OTHER DEALINGS IN THE SOFTWARE.
 class Get_Post_Var
 {
   public static $name         = 'GET_POST_Var';
-  public static $version      = '2.0';
+  public static $version      = '1.1';
   public static $author       = 'Ingo Wedler';
   public static $author_url   = 'http://ingowedler.com/';
   public static $description  = 'GET_POST_Var provides some helper functions for fetching data like GET, POST, User IP, User Agent, Cookies, Server Variables (see PHP_Info).';
